@@ -4,20 +4,20 @@ This repository contains code files for various Python topics and concepts.
 
 ## Chapters and Topics
 
-### 1. **Data Types in Python**
+### Chp 2. **Data Types in Python**
 - Using the type() Function
 - Casting Data Types
 - Arithmetic Operations and Type Conversion
 - Examples of Casting
 
-### 2. **Operators**
+### Chp 3. **Operators**
 - Boolean Operators
 - Assignment Operators
 - Arithmetic Operators
 - Comparison Operators
 - Logical Operators
 
-### 3. **Strings**
+### Chp 4. **Strings**
 - Creating and Displaying Strings
 - String Concatenation
 - Escape Sequences
@@ -25,7 +25,7 @@ This repository contains code files for various Python topics and concepts.
 - String Indexing and Slicing
 - String Methods
 
-### 4. **Lists**
+### Chp 5. **Lists**
 - Introduction to Lists
 - Creating a List
 - Accessing List Items
