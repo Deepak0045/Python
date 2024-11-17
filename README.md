@@ -5,6 +5,7 @@ This repository contains Python code files covering essential topics and concept
 The code files are well-commented to guide learners through each topic, offering practical examples and explanations for better understanding.
 
 ---
+
 ## Chapters and Topics
 
 ### Chp 2. **Data Types in Python**
@@ -40,6 +41,35 @@ The code files are well-commented to guide learners through each topic, offering
 - Inserting Items into a List
 - Removing Items from a List
 - Joining Lists
+
+### Chp 6. **Tuples in Python**
+- What is a Tuple?
+- Common Tuple Methods
+- Creating a Tuple
+- Accessing Tuple Items
+- Slicing Tuples
+- Changing Tuples to Lists
+
+### Chp 7. **Python Sets**
+- Introduction
+- Creating Sets
+- Basic Set Operations
+- Set Methods for Operations
+- Additional Examples
+
+### Chp 8. **Python Dictionaries**
+- Introduction
+- Creating Dictionaries
+- Accessing Dictionary Items
+- Adding Items to a Dictionary
+- Modifying Dictionary Items
+- Removing Items from a Dictionary
+- Dictionary Methods
+- Checking Keys
+- Length of a Dictionary
+- Nested Dictionary Operations
+- Getting Keys and Values
+- Advanced Example
 
 ---
 
