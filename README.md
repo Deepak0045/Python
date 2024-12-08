@@ -81,6 +81,31 @@ The code files are well-commented to guide learners through each topic, offering
 - If with `or` Logical Operator
 - (2) Exercises
 
+
+### Chp 10. **Python Loops: Simplifying Repetitive Tasks**
+
+- Introduction to Loops
+  - Why Use Loops?
+  - Types of Loops in Python
+
+#### For Loop
+- Using For Loop with Lists
+- Using For Loop with Strings
+- Using For Loop with Dictionaries
+- Using For Loop with Nested Dictionaries
+
+#### While Loop
+- Basics of While Loop
+- Using Else with While Loop
+- Using Break in While Loop
+- Using Continue in While Loop
+
+#### Break and Continue in Loops
+- Using Break in For Loops
+- Using Continue in For Loops
+- Examples with Conditional Expressions
+
+
 ---
 
 ## License
