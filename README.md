@@ -105,6 +105,21 @@ The code files are well-commented to guide learners through each topic, offering
 - Using Continue in For Loops
 - Examples with Conditional Expressions
 
+  
+### Chp 11. **Functions in Python**
+- Function Without Parameters and Without Return Value
+- Function Without Parameters but Returning a Value
+- Function With Parameters but Without Return Value
+- Function With Parameters and Returning a Value
+- Function With Default Parameters
+- Function With Variable-Length Arguments (`*args`)
+- Function With Variable-Length Keyword Arguments (`**kwargs`)
+- Passing Functions as Arguments to Other Functions
+- Polymorphism in Functions
+- Function Returning Multiple Values
+- Lambda Functions
+- Generator Functions with `yield`
+
 
 ---
 
