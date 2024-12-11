@@ -132,4 +132,3 @@ This project is provided for educational purposes. You are welcome to use and mo
 ## Acknowledgments
 
 Thanks to the extensive Python standard library and community, making these topics easier to learn and implement in real-world applications.
-
